@@ -1,0 +1,80 @@
+.header{
+    height: 80px;
+    width: 100%;
+    text-align: center;  
+    background-color: rgb(249, 215, 171);
+}
+
+.header p{
+    display: inline;
+    text-align: center;
+    padding: 20px;
+}
+
+.image{
+    width: 300px;
+    height: 400px;
+    position: absolute;
+    left: 10px;
+    top: 120px;
+}
+
+.container{
+    height: 300px;
+    width: 800px;
+    position: relative;
+    margin-top: 75px;
+    margin-left: 350px;
+}
+
+.Education{
+    height: 150px;
+    width: 400px;
+    float: left;
+}
+
+.skills{
+    height: 150px;
+    width: 400px;
+    float: left;
+    text-align: center;
+    line-height: 25px;
+}
+
+.Achievements{
+    height: 150px;
+    width: 400px;
+    float: left;
+}
+
+.Soft-Skill{
+    height: 150px;
+    width: 400px;
+    float: left;
+    text-align: center;
+    line-height: 25px;
+}
+
+h2{
+    text-align: center;
+    background-color: rgb(249, 215, 171);
+}
+
+
+#ts li{
+    display: inline;
+    background-color: rgb(167, 158, 145);
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    padding: 1px;
+}
+
+#ss li{
+    display: inline;
+    background-color: rgb(167, 158, 145);
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    padding: 1px;
+}
